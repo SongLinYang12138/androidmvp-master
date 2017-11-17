@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:7:22-69
+application
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:8:5-35:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4843f7f4d801b43d806876caf6ef2249b4916485\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\dd790dda1bbfdd702d34478a154a4a6c6538e4b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\ec5973aaa944eec9f6c37e5d851ec0aaaff07c2a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\3bc31992c534250fefce14f5b880809c41a8d8df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7ee07dbd7d2d490f8a4038a0b20123a1c150c12c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\2fef12d974fc4e2d6b58e61a861b25f1c4cd66f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\2ca9ebc579940c686432c38cc32a356568c434ea\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\a3bbd7432d733e49cad27bcb2b4d6eb77fde1103\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b942d36c547a85e626b72fc16504dec53bce8dce\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:13:9-40
+activity#com.ysl.wallpaper.ui.activity.MainActivity
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:15:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:19:27-74
+service#com.ysl.wallpaper.service.VideoWallpaper
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:24:9-33:19
+	android:permission
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:25:13-67
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:24:18-56
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:27:13-29:29
+action#android.service.wallpaper.WallpaperService
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:28:17-84
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:28:25-82
+meta-data#android.service.wallpaper
+ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:30:13-32:19
+	android:resource
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:31:17-55
+	android:name
+		ADDED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml:30:24-64
+uses-sdk
+INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4843f7f4d801b43d806876caf6ef2249b4916485\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\dd790dda1bbfdd702d34478a154a4a6c6538e4b3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\ec5973aaa944eec9f6c37e5d851ec0aaaff07c2a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\3bc31992c534250fefce14f5b880809c41a8d8df\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7ee07dbd7d2d490f8a4038a0b20123a1c150c12c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\2fef12d974fc4e2d6b58e61a861b25f1c4cd66f2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\2ca9ebc579940c686432c38cc32a356568c434ea\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\a3bbd7432d733e49cad27bcb2b4d6eb77fde1103\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b942d36c547a85e626b72fc16504dec53bce8dce\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4843f7f4d801b43d806876caf6ef2249b4916485\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\androidmvp-master\mywallpaper\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4843f7f4d801b43d806876caf6ef2249b4916485\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\dd790dda1bbfdd702d34478a154a4a6c6538e4b3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\ec5973aaa944eec9f6c37e5d851ec0aaaff07c2a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\3bc31992c534250fefce14f5b880809c41a8d8df\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7ee07dbd7d2d490f8a4038a0b20123a1c150c12c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\2fef12d974fc4e2d6b58e61a861b25f1c4cd66f2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\2ca9ebc579940c686432c38cc32a356568c434ea\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\a3bbd7432d733e49cad27bcb2b4d6eb77fde1103\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b942d36c547a85e626b72fc16504dec53bce8dce\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4843f7f4d801b43d806876caf6ef2249b4916485\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4843f7f4d801b43d806876caf6ef2249b4916485\output\AndroidManifest.xml:26:9-47

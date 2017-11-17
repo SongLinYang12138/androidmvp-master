@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\demo\\androidmvp-master\\mykotlin\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "F:\\demo\\androidmvp-master\\mykotlin\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\demo\\androidmvp-master\\mykotlin\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "F:\\demo\\androidmvp-master\\mykotlin\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

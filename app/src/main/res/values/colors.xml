@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="loading_background_gray">#82000000</color>
+    <color name="blue_black">#21292B</color>
+    <color name="blue_purple">#2f579d</color>
+    <color name="titlebar_darkblue">#10487d</color>
+    <color name="titlebar_lightpurple">#5692d8</color>
+    <color name="titlebar_lightblue">#2e93cb</color>
+    <color name="dark_gray">#576069</color>
+    <color name="super_light_gray">#ffe1e1e1</color>
+
+    <color name="light_gray">#ebecf1</color>
+    <color name="light_blue">#ff208cd5</color>
+    <color name="light_gray_top">#c9c9c9</color>
+    <color name="tabbar_checked_textcolor">#30abcc</color>
+
+    <color name="light_green">#b9e3d9</color>
+    <color name="white_gray">#f3f4f6</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="fonyuan_qrcode_viewfinder_mask">#60000000</color>
+    <color name="fonyuan_qrcode_result_view">#b0000000</color>
+    <color name="fonyuan_qrcode_possible_result_points">#c0ffff00</color>
+    <color name="white">#ffffff</color>
+
+    <color name="red">#ff0000</color>
+
+
+    <color name="divider">#d8d8d8</color>
+    <color name="divider_l">#f0f0f0</color>
+    <!--标题背景颜色-->
+    <color name="titlebackground_lightgray">#f0eff4</color>
+
+    <color name="setting_white">#ffffff</color>
+
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+    <color name="transparent">#00000000</color><!--透明的-->
+    <!--popupwindow-->
+    <color name="text_color">#F8F8F8</color>
+    <color name="dropdownlist_bg">#d5c9b9</color>
+    <color name="dropdownlist_press">#9d9087</color>
+    <color name="dropdownlist_item">#f2eada</color>
+    <color name="dropdownlist_item_press">#c1b5b7</color>
+
+    <!--个人中心-->
+    <color name="personal_lightgray">#999999</color>
+
+    <!--通用设置-->
+    <color name="common_lightgray">#777777</color>
+    <color name="common_light_pink">#fd7373</color>
+
+    <!--扫码装车-->
+    <color name="scanloading_none_data">#d0d7df</color>
+    <color name="scanloading_red">#ff7373</color>
+    <color name="scanloading_blue">#00b8d4</color>
+    <color name="scanloading_divider">#d5d5d5</color>
+
+    <!--到站库存-->
+    <color name="arrivedgoods_red">#ff7373</color>
+    <color name="arrivedgoods_itembetween_gray">#f0f0f0</color>
+
+    <!--打印-->
+    <color name="underline">#d6d9e0</color><!--浅灰色-->
+    <color name="titlebackground">#e7eaf1</color>
+    <color name="sendstylecolor">#00b9d5</color>
+    <color name="dividerline">#e8e8e8</color>
+    <color name="dividerline_1">#d4d4d4</color>
+
+    <!-- 通用颜色 -->
+
+    <!--文字颜色-->
+    <color name="dark_gray_title">#636465</color>
+    <color name="light_gray_title">#8c8c8e</color>
+    <color name="red_title">#fd7373</color><!--文本红色-->
+
+    <color name="left_label_color_title">#5fb6fe</color>
+
+    <!--标题底色-->
+    <color name="title_background_color">#2e93cb</color>
+    <color name="bottom_blue_color">#1b2438</color>
+
+    <!--刷新控件-->
+    <!--<color name="white">#FFFFFF</color>-->
+    <color name="black">#000000</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="background">#e4e4e4</color>
+    <!--<color name="light_blue">#6593cb</color>-->
+
+    <!--首页-->
+    <color name="first_title">#9a9a9a</color>
+    <color name="first_title_background">#f0f0f0</color>
+
+
+    <!--签收-->
+    <!--<color name="signoff_bottom_bg" >#fbfbfb</color>-->
+    <color name="signoff_bottom_bg">#ebecf1</color>
+    <color name="signoff_item_billnum">#323232</color>
+
+    <!--签收信息-->
+    <color name="signoffinfo_gray">#777777</color>
+    <color name="signoffinfo_receipt">#00b8d4</color>
+
+
+    <!--dialog-->
+    <color name="dialog_red">#ff7676</color>
+    <color name="dialog_black">#333333</color>
+
+    <!--toast-->
+    <color name="toast_bg">#ff5d5d5d</color>
+
+    <color name="maillistfragment_bg">#f0f0f0</color>
+
+    <!--自定义sidebar背景-->
+    <color name="sidebar_bg">#99d6d9e0</color>
+    <!--员工列表-->
+    <color name="contact_titlecolor">#787878</color>
+    <color name="contact_main_blue">#00b8d4</color>
+
+    <color name="search_background">#f0f0f0</color>
+
+    <!--代付单输入框的边框颜色-->
+    <color name="payanother_edittext">#b5b5b5</color>
+
+    <color name="billmanager_text">#00b8d4</color>
+
+    <color name="avi">#2e93cb</color>
+    <color name="avi_1">#ff8040</color>
+
+    <!--到货管理-->
+    <color name="arrivemanager_gray">#737782</color>
+    <color name="arrivemanager_green">#04db9f</color>
+    <!--车辆管理-->
+    <color name="carmanager_green">#02dc9f</color>
+</resources>
