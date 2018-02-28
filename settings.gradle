@@ -1,1 +1,1 @@
-include ':app', ':mywallpaper', ':myapplication', ':lib', ':mykotlin'
+include ':app', ':mywallpaper', ':myapplication', ':lib', ':mykotlin', ':testmodel'

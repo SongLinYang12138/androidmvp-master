@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Android调用 JS 代码demo</title>
+    <!--JS代码-->
+    <script>
+      <!--Android需要调用的方法-->
+       function callJS(){
+          <!--alert("Android调用了JS的callJS方法");-->
+          return "调用了";
+       }
+
+       function callAndroid(){
+
+        test.callAndroid("call没有");
+       }
+    </script>
+</head>
+
+<body>
+
+<!--//点击按钮则调用callAndroid函数-->
+<text onclick="callAndroid()" font-size="20">index.html</text>
+</body>
+</html>
+
+
